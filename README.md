@@ -6,6 +6,9 @@ The focus is not only on theoretical concepts but also on implementing models wi
 **Topics Covered**
 
 **Introduction** – Basics of Deep Learning
+
 **Preliminaries** – Python, tensors, data preprocessing
+
 **Linear Neural Networks for Regression** – Linear regression, MSE loss, training
+
 **Linear Neural Networks for Classification** – Softmax, Cross-Entropy, evaluation metrics
