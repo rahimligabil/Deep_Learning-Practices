@@ -7,7 +7,7 @@ The focus is not only on theoretical concepts but also on implementing models wi
 
 **Introduction** – Basics of Deep Learning
 
-**Preliminaries** – Python, tensors, data preprocessing
+**Preliminaries** – Python, PyTorch, tensors, data preprocessing
 
 **Linear Neural Networks for Regression** – Linear regression, MSE loss, training
 
